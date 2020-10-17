@@ -1,6 +1,6 @@
 
-### Hi there 👋, I'm ダンクデル // 千鶴
-![gif](https://github.com/darkpokefan/darkpokefan/blob/Master/images.mp4)
+### Hi there 👋, I'm プラナフ・アジェイ
+![gif](https://github.com/darkpokefan/darkpokefan/blob/Master/giphy.gif)
 - Some of my works include [Ash Ketchum](https://github.com/darkpokefan/Ashketchum).
 - I’m currently learning [Python](python.org)
 - Stuff I like: Anime, Manga, Music and Video Production.
